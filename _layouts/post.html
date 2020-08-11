@@ -6,7 +6,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Blogs</h1>
+        <h1 class="text-white font-tertiary">Thoughts</h1>
       </div>
     </div>
   </div>
@@ -38,29 +38,4 @@ layout: default
 
 {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
-<!-- blog -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Similar Stories</h2>
-      </div>
-      {% for post in site.posts offset:0 limit:3 %}
-      <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-        <article class="card shadow">
-          <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.title }}">
-          <div class="card-body">
-            <h4 class="card-title"><a class="text-dark" href="{{ post.url | relative_url }}">Amazon increase income 1.5 Million</a>
-            </h4>
-            <p class="cars-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et
-              dolore magna aliqua.</p>
-            <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
-          </div>
-        </article>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-<!-- /blog -->
+{% include thoughts-section.html %}

@@ -30,6 +30,15 @@
   }
 }
 
+.big-icon {
+  font-size:100px;
+  color:$tertiary-color;
+}
+
+.big-icon:hover {
+  color:$primary-color;
+}
+
 .filter-controls {
   li {
     cursor: pointer;
