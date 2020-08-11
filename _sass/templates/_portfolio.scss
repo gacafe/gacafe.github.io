@@ -1,0 +1,41 @@
+.page-title {
+  padding: 250px 0 150px;
+
+  .container {
+    position: relative;
+    z-index: 1;
+  }
+
+  .bg-shape-1 {
+    position: absolute;
+    left: 20px;
+    bottom: -20px;
+    width: 40%;
+  }
+
+  .bg-shape-2 {
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    width: 15%;
+    transform: rotate(180deg);
+  }
+
+  .bg-shape-3 {
+    position: absolute;
+    left: 65%;
+    top: 20%;
+    transform: rotate(-8deg);
+    width: 40%
+  }
+}
+
+.filter-controls {
+  li {
+    cursor: pointer;
+
+    &.active {
+      font-weight: bold;
+    }
+  }
+}
