@@ -21,4 +21,4 @@ Her talk at the [Women in Analytics Conference](https://womeninanalytics.com/) w
 - Just because the algorithm is less accurate does not mean its less fair - fairness has to do with the way it is used.
 - The people who are affected want to know: "are my civil rights being violated?"
 
-A more thorough and formal blog about my takeaways is here -> [https://neighbourlytics.com/blog/2019-women-analytics-conference](https://neighbourlytics.com/blog/2019/1/17/mathematician-urban-development-one-year)
+A more thorough and formal blog about my takeaways is here -> [Ethics in algorithms and other key take aways from the 2019 Women in Analytics Conference USA](https://neighbourlytics.com/blog/2019-women-analytics-conference)
