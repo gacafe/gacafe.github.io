@@ -5,9 +5,9 @@ title: Gala Camacho Ferrari's website
 logo: pipedream_b_small.png
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Thoughts, link: '/thoughts/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/about.html'}
+- {name: Thoughts, link: '/thoughts.html'}
+- {name: Contact, link: '/contact.html'}
 
 
 #-------------------------------
@@ -48,7 +48,7 @@ blurb:
   ¡Hola! 
   Welcome to my website. 
 
-blurb-btn-link: '/about'
+blurb-btn-link: '/about.html'
 blurb-btn-name: Read more about me.
 
 
@@ -277,4 +277,4 @@ team:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: gala.camacho+website@gmail.com
