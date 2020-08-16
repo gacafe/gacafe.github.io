@@ -30,6 +30,38 @@
   }
 }
 
+.page-title-small {
+  padding: 100px 0 100px;
+
+  .container {
+    position: relative;
+    z-index: 1;
+  }
+
+  .bg-shape-5 {
+    position: absolute;
+    right: 20px;
+    bottom: -20px;
+    width: 15%;
+    transform: rotate(45deg);
+  } 
+  .bg-shape-6 {
+    position: absolute;
+    left: -5px;
+    top: 60%;
+    width: 20%;
+    transform: rotate(15deg);
+  } 
+}
+
+.post-img {
+  max-width: 300px;
+}
+
+.bg-shape-split {
+    width: 98%;
+  } 
+
 .big-icon {
   font-size:100px;
   color:$tertiary-color;

@@ -1,11 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Gala Camacho Ferrari
+title: Gala Camacho Ferrari's website
 logo: pipedream_b_small.png
-email: TODO
-phone: TODO
-address: TODO
 
 menu:
 - {name: About, link: '/about/'}
@@ -37,8 +34,10 @@ hero:
   hero-title: Gala <br>Camacho Ferrari
 
 social:
+- {icon: "ti-email", link: "mailto:gala.camacho+website@gmail.com"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/galacamacho/"}
 - {icon: "ti-twitter", link: "https://twitter.com/GalaCF"}
+
 
 
 #-------------------------------
@@ -46,10 +45,11 @@ social:
 
 # About Section
 blurb:
-  Hello, I am awesome please hire me. 
+  ¡Hola! 
+  Welcome to my website. 
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: Read more about me.
 
 
 # About Page
@@ -68,7 +68,11 @@ blurb-btn-name: know more
 #     icon : "assets/images/icons/print.png"
 #     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-
+# My Team Section
+team:
+  - title : "Women in STEMM Australia"
+    image : "assets/images/team/member-1.png"
+    designation : "Project Manager"
 
 #-------------------------------
 # Skills Section

@@ -6,6 +6,9 @@
 	<img src="https://user-images.githubusercontent.com/37659754/58154256-00627500-7c93-11e9-90c1-c145cb396902.gif"  width="100%" alt="kross portfolio template by themefisher">
 </div>
 
+## Info
+	colour scheme: https://coolors.co/313628-56b386-3a7ca5-8c035e-f7b53b
+
 ## Demo
 
 | Homepage  | About  | Blog  | Portfolio  | Contact  |
