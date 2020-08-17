@@ -5,6 +5,7 @@ title: Gala Camacho Ferrari's website
 logo: pipedream_b_small.png
 
 menu:
+- {name: Home, link: '/'}
 - {name: About, link: '/about.html'}
 - {name: Thoughts, link: '/thoughts.html'}
 - {name: Contact, link: '/contact.html'}
