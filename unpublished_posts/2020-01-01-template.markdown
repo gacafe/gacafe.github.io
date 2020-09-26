@@ -9,4 +9,5 @@ summary: OneSentence
 
 ![post-thumb]({{site.baseurl}}/assets/images/thoughts/xxx.png){:class="post-img rounded float-left mr-5 mb-4"}
 
-Words in md go here.
+text goes here
+

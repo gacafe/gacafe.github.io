@@ -3,7 +3,7 @@ layout: post
 title:  Broadside2019
 image:  broadside.png
 author: Gala Camacho Ferrari
-tags:   sexism, tech
+tags:   sexism, feminism
 summary: 2 full days of an unapologetically feminist agenda. 
 ---
 

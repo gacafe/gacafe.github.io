@@ -9,6 +9,7 @@ menu:
 - {name: About, link: '/about.html'}
 - {name: Thoughts, link: '/thoughts.html'}
 - {name: Contact, link: '/contact.html'}
+- {name: Experience, link: '/experience.html'}
 
 
 #-------------------------------

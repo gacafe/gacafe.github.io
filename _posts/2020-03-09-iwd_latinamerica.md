@@ -3,7 +3,7 @@ layout: post
 title:  Ni Una Menos
 image:  iwd_latinamerica.png
 author: Gala Camacho Ferrari
-tags:   template
+tags:   international womens day, feminism, latin america
 summary: Women across Mexico demonstrated what a Mexico without women would be like
 ---
 
