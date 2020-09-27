@@ -124,6 +124,7 @@
 		firstYear: null,
 		renderEvent: function(d){
 			var firstYear = life.firstYear;
+			var lastYear = life.lastYear;
 			var yearLength = life.config.yearLength;
 			var monthLength = yearLength/12;
 			var dayLength = monthLength/30;
@@ -139,9 +140,11 @@
 			var width = 0;
 
 			// Calculate offset
-			var startTime = new Date(firstYear, 0, 1);
-			var endTime = new Date(startYear, startMonth ? startMonth-1 : 0, startDate || 1);
-			var daysDiff = (endTime - startTime)/(24*60*60*1000);
+			var startTime = new Date(lastYear, 11, 31);
+			var endTime = new Date(endYear, endMonth ? endMonth-1 : 0, endDate || 1);
+			var daysDiff = (startTime-endTime)/(24*60*60*1000);
+			console.log(startTime)
+			console.log(endTime)
 			offset = daysDiff*dayLength;
 
 			// Calculate width
@@ -175,14 +178,13 @@
 
 			var color = '#f7b53b'
 			var bordercolor = '#c48208'
-			console.log(d)
+
 			if ((d.kind == 'education') && (d.size=='major')) {color = '#56b386'; bordercolor = '#26543e';}
 			if ((d.kind == 'education') && (d.size=='minor')) {color = '#56b386'; bordercolor = '#d5ece1';}
 			if ((d.kind == 'work') && (d.size=='major')) {color = '#3a7ca5'; bordercolor = '#2a5b79';}
 			if ((d.kind == 'work') && (d.size=='minor')) {color = '#3a7ca5'; bordercolor = '#c3dbea';}
 			if ((d.kind == 'volunteer') && (d.size=='major')) {color = '#8c035e'; bordercolor = '#640243';}
 			if ((d.kind == 'volunteer') && (d.size=='minor')) {color = '#8c035e'; bordercolor = '#fdafe3';}
-
 
 
 			var box = 'style="background: ' + color + ';border-color: ' + bordercolor + ';width: ' + width.toFixed(2) + 'px"'
@@ -197,11 +199,10 @@
 			var dayLength = life.config.yearLength/12/30;
 			var html = '';
 			var days = 0;
-			var hideAge = life.config.hideAge;
-			for (var y=firstYear, age = 0; y<=lastYear+1; y++, age++){
+			for (var y=lastYear; y+1>=firstYear; y--){
 				var days = (y % 4 == 0) ? 366 : 365;
 				html += '<div class="year" style="width: ' + (days*dayLength).toFixed(2) + 'px"><span>'
-					+ y + (hideAge ? '' : (' <i>(' + age + ')</i>'))
+					+ y 
 					+ '</span></div>';
 			}
 			return html;
@@ -219,6 +220,7 @@
 				if (endYear && endYear > lastYear) lastYear = endYear;
 			});
 			life.firstYear = firstYear;
+			life.lastYear = lastYear;
 
 			var html = '<div id="life-events">';
 			// 'comment_' class name is to hide it from Safari Reader

@@ -3,7 +3,7 @@ Gala's life
 
 - 08/2004-07/2008 & education & major & BSc in Applied Mathematics, University of Colorado at Boulder (Boulder, USA)
 
-- 2005            & work      & minor & Inter, Mexican Accreditation Entity - EMA (Mexico City, Mexico)
+- 05/2005-08/2005 & work      & minor & Intern, Mexican Accreditation Entity - EMA (Mexico City, Mexico)
 
 - 08/2006-12/2008 & education & major & Secondary Ed. Teaching Cert., University of Colorado at Boulder (Boulder, USA)
 
@@ -40,7 +40,7 @@ Gala's life
 
 - 01/2019-~       & volunteer & major & Board Member, Women in STEMM Australia (Melbourne, Australia)
 
-- ~2019           & education & minor & Westpac Foundational Leader Program (Sydney, Australia)
+- 04/2019-06/2019 & education & minor & Westpac Foundational Leader Program (Sydney, Australia)
 
 - 01/2020-~       & volunteer & major & Board Member, Victorian Student Representative Council (Melbourne, Australia)
 
