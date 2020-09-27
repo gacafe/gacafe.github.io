@@ -143,8 +143,6 @@
 			var startTime = new Date(lastYear, 11, 31);
 			var endTime = new Date(endYear, endMonth ? endMonth-1 : 0, endDate || 1);
 			var daysDiff = (startTime-endTime)/(24*60*60*1000);
-			console.log(startTime)
-			console.log(endTime)
 			offset = daysDiff*dayLength;
 
 			// Calculate width
@@ -206,6 +204,7 @@
 					+ '</span></div>';
 			}
 			return html;
+
 		},
 		render: function(data){
 
@@ -228,9 +227,6 @@
 			data.forEach(function(d){
 				html += life.renderEvent(d);
 			});
-			/*
-			html += '<div class="life-years comment_" style="position: relative;">' + life.renderYears(firstYear, lastYear) + '</div>';
-			*/
 			html += '</div>';
 			life.$el.innerHTML = html;
 		}
