@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <title>Life</title>
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="format-detection" content="telephone=no">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300"> -->
-<header>
-	<h1 id="title">Life</h1>
-</header>
-<div id="life"></div>
+
+<section class="section">
+  <div class="container">
+	<div id="life"></div>
+
 <script>
 (function(){
 	var life = {
@@ -26,9 +24,6 @@
 			}
 		},
 		config: {
-			yearLength: 120, // 120px per year
-			hideAge: false, // Hide age from year axis
-			customStylesheetURL: null // Custom stylesheet
 		},
 		start: function(){
 			life.loadConfig(function(config){
@@ -38,7 +33,7 @@
 				life.fetch(function(response){
 					var data = life.parse(response);
 					var title = life.parseTitle(response);
-					life.render(title, data);
+					life.render(data);
 				});
 			});
 		},
@@ -75,11 +70,15 @@
 			var list = response.match(/\-\s+[^\n\r]+/ig);
 			var data = [];
 			list.forEach(function(l){
-				var matches = l.match(/\-\s+([\d\/\-\~]+)\s(.*)/i);
+				var matches = l.match(/\-\s+([\d\/\-\~]+)\s+&\s+(\w+)\s+&\s+(\w+)\s+&\s+(.*)/i);
 				var time = matches[1];
-				var text = matches[2];
+				var kind = matches[2];
+				var size = matches[3]
+				var text = matches[4];
 				data.push({
 					time: life.parseTime(time),
+					kind: kind,
+					size: size,
 					text: text
 				});
 			});
@@ -174,10 +173,25 @@
 				d.text = d.text.replace(link[0], "<a href='" + link[2] + "'" + link_attr + ">" + link[1] + "</a>");
 			}
 
+			var color = '#f7b53b'
+			var bordercolor = '#c48208'
+			console.log(d)
+			if ((d.kind == 'education') && (d.size=='major')) {color = '#56b386'; bordercolor = '#26543e';}
+			if ((d.kind == 'education') && (d.size=='minor')) {color = '#56b386'; bordercolor = '#d5ece1';}
+			if ((d.kind == 'work') && (d.size=='major')) {color = '#3a7ca5'; bordercolor = '#2a5b79';}
+			if ((d.kind == 'work') && (d.size=='minor')) {color = '#3a7ca5'; bordercolor = '#c3dbea';}
+			if ((d.kind == 'volunteer') && (d.size=='major')) {color = '#8c035e'; bordercolor = '#640243';}
+			if ((d.kind == 'volunteer') && (d.size=='minor')) {color = '#8c035e'; bordercolor = '#fdafe3';}
+
+
+
+			var box = 'style="background: ' + color + ';border-color: ' + bordercolor + ';width: ' + width.toFixed(2) + 'px"'
+			var tooltip =  '<span class="timetext">' + d.time.title + '</span>' 
+
 			return '<div class="event" style="margin-left: ' + offset.toFixed(2) + 'px">'
-				+ '<div class="time" style="width: ' + width.toFixed(2) + 'px"></div>'
-				+ '<b>' + d.time.title + '</b> ' + d.text
-				+ '</div>';
+				 + '<div class="time" ' + box + '>' + tooltip + '</div>'
+				 +  d.text
+				 + '</div>';
 		},
 		renderYears: function(firstYear, lastYear){
 			var dayLength = life.config.yearLength/12/30;
@@ -192,9 +206,7 @@
 			}
 			return html;
 		},
-		render: function(title, data){
-			document.title = title;
-			life.$title.innerHTML = title;
+		render: function(data){
 
 			// Get the first and last year for the year axis
 			var firstYear = new Date().getFullYear();
@@ -210,10 +222,13 @@
 
 			var html = '<div id="life-events">';
 			// 'comment_' class name is to hide it from Safari Reader
-			html += '<div id="life-years" class="comment_">' + life.renderYears(firstYear, lastYear) + '</div>';
+			html += '<div class="life-years comment_">' + life.renderYears(firstYear, lastYear) + '</div>';
 			data.forEach(function(d){
 				html += life.renderEvent(d);
 			});
+			/*
+			html += '<div class="life-years comment_" style="position: relative;">' + life.renderYears(firstYear, lastYear) + '</div>';
+			*/
 			html += '</div>';
 			life.$el.innerHTML = html;
 		}
@@ -251,3 +266,12 @@
 	slider.init();
 })();
 </script>
+
+  </div>
+</section>
+
+
+
+
+
+
