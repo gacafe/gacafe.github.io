@@ -10,6 +10,8 @@ menu:
 - {name: Thoughts, link: '/thoughts.html'}
 - {name: Contact, link: '/contact.html'}
 - {name: Experience, link: '/experience.html'}
+- {name: Life, link: '/life.html'}
+
 
 
 #-------------------------------
@@ -65,10 +67,10 @@ blurb-btn-name: Read more about me.
 #     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title : "Women in STEMM Australia"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+# team:
+#   - title : "Women in STEMM Australia"
+#     image : "assets/images/team/member-1.png"
+#     designation : "Project Manager"
 
 #-------------------------------
 # Skills Section
@@ -84,22 +86,22 @@ team:
 #-------------------------------
 # Exprerience Section
 
-# experience-title: Experience
-# experience:
-# - {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-# - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-# - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+experience-title: Experience
+experience:
+- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
 # Education Section
 
-# education-title: Education
-# education:
-# - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-# - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-# - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-# - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+education-title: Education
+education:
+- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
+- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
+- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------

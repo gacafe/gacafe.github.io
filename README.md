@@ -10,3 +10,12 @@
 	colour scheme: https://coolors.co/313628-56b386-3a7ca5-8c035e-f7b53b
 	pipedream diagram: https://arxiv.org/pdf/1502.03991.pdf
 
+
+## RUNNING
+
+We need to be using the right version of ruby. So:
+
+1. `rvm use 2.7.1`
+2. `bundle exec -- jekyll serve`
+
+
