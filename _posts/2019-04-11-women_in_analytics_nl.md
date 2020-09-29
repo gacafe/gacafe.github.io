@@ -11,7 +11,7 @@ summary: "Ethics in algorithms and other key take aways from the 2019 Women in A
 
 I have been following [Cathy O'Neil](https://twitter.com/mathbabedotorg) since around 2015 when I was introduced to [her blog](https://mathbabe.org/) by a colleague at the time. 
 
-Her talk at the [Women in Analytics Conference](https://womeninanalytics.com/) was really inspiring. I  about this [in twitter](https://twitter.com/GalaCF/status/1109085663721345024?s=20) but here are my higlights. 
+Her talk at the [Women in Analytics Conference](https://womeninanalytics.com/) was really inspiring. I  about this [in twitter](https://twitter.com/GalaCF/status/1109085663721345024?s=20) but here are my highlights. 
 
 - People trust AI because people trust math - she wrote Weapons of Math Destruction because she thought: "what would it look like to put the science into data science?"
 - Math, AI and algorithms is not something we need to intimidate people with 
