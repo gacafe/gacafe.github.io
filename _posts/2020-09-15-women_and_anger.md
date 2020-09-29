@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Women and Anger
-image:  Audre_Lorde_Photo_by_Elsa_Dorfman.png
+image:  Audre_Lorde_Photo_by_Elsa_Dorfman.jpg
 author: Gala Camacho Ferrari
-tags:   template
-summary: OneSentence
+tags:   anger, feminism
+summary: Using our anger
 ---
 
-![post-thumb]({{site.baseurl}}/assets/images/thoughts/Audre_Lorde_Photo_by_Elsa_Dorfman.jpg){:class="post-img rounded float-left mr-5 mb-4"}
+![post-thumb]({{site.baseurl}}/assets/images/thoughts/Audre_Lorde_Photo_by_Elsa_Dorfman.jpg)
 
 I read [Audre Lorde's "The uses of anger: women responding to racism"](https://www.blackpast.org/african-american-history/1981-audre-lorde-uses-anger-women-responding-racism/) and it really moved me. I know this text has been around for a long time, but isn't that part of what makes it even more enfuriating - we see change, and we believe change has happened, but Lorde's words still ring true to me, to my experiences and to the experiences of other WOC around me. 
 
