@@ -1,0 +1,37 @@
+{% if site.data.settings.experience %}
+<!-- experience -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">{{ site.data.settings.speaking-title }}</h2>
+      </div>
+      <h5> This list is not exhaustive - the accuracy is highly correlated with time: the more recent the more accurate!</h5>
+      {% for event in site.data.settings.speaking %}
+      <div class="col-lg-3 col-md-5 text-left">
+        {% if event.image %}
+        <img src="{{ site.baseurl }}/assets/images/experience/speaking/{{ event.image }}">
+        {% else %}
+        <img src="{{ site.baseurl }}/assets/images/experience/speaking/tiles_2.png">
+        {% endif %}
+        
+        <h6> {{ event.title }} <br/>--------
+        </h6>
+
+        <h7 class="text-light">
+          {{ event.date }}<br/>
+          {{ event.where }}<br/>
+          {{ event.name }}<br/>
+          {{ event.organiser }}<br/>
+          
+        </h7>
+        {% if event.recording %}
+        <h7><a href= {{ event.recording }}>recording</a><br/></h7>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- ./experience -->
+{% endif %}

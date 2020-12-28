@@ -1,15 +1,20 @@
 Gala's life
 ===============
-
-- 12/2017-~       & work      & major & <strong>Head of Analytics, Neighbourlytics</strong> (Melbourne, Australia)
-
-- 01/2017-~       & volunteer & major & Co-organiser, PyLadies Melbourne (Melbourne, Australia)
+- 11/2020-~		  & work      & major & Data and Analytics Strategic Consultant (Cambridge, United Kingdom)
 
 - 01/2019-~       & volunteer & major & Board Member, Women in STEMM Australia (Melbourne, Australia)
 
-- 01/2020-~       & volunteer & major & Board Member, Victorian Student Representative Council (Melbourne, Australia)
+- 12/2019-12/2020 & volunteer & major & Board Member, Victorian Student Representative Council (Melbourne, Australia)
+
+- 12/2017-11/2020 & work      & major & Head of Analytics, Neighbourlytics (Melbourne, Australia)
+
+- 01/2017-11/2020 & volunteer & major & Co-organiser, PyLadies Melbourne (Melbourne, Australia)
+
+- 02/2020-03/2020 & volunteer & minor & Organiser, Datathon for Social Good
 
 - 01/2020-05/2020 & volunteer & minor & Secondary Advisor for Master's Thesis, OCAD University (remote)
+
+- 01/2020-02/2020 & volunteer & minor & Organiser, PostPrediction Conf
 
 - 04/2019-06/2019 & education & minor & Westpac Foundational Leader Program (Sydney, Australia)
 
@@ -46,19 +51,3 @@ Gala's life
 - 01/2007-05/2008 & work      & minor & Learning Asistant, STEM Program - University of Colorado (Boulder, Colorado)
 
 - 01/2006-07/2008 & work      & minor & Star Talk Presenter Fiske Planetarium (Boulder, USA)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")

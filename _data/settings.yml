@@ -92,6 +92,23 @@ experience:
 - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
 - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
+# Speaking Section
+speaking-title: Past talks / panels / etc
+speaking:
+- {title: 'Melbourne tech scene exit interview', name: 'Byte into IT' , organiser: 'RRR' , where: 'Radio (Melbourne)', date: '2020-10-21', image: 'byte_into_it.png', recording: 'https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/4735-get-online-week-exit-interviews'}
+- {title: Speaker Panel on a sustainable future with location intelligence, name:  'The Power of Place', organiser: 'Knowledge Transfer Network', where: 'Online (UK)', date: '2020-09-08', image: 'the_power_of_place.png', recording: 'https://ktn-uk.org/events/thepowerofplace-webinar-series-a-sustainable-future-with-location-intelligence/'}
+- {title: 'Geospatial data is :exploading_head:', name: PyConline AU, organiser: PyCon Australia, where: Online (Oceania), date: '2020-09-04', image: 'pyconline_au_2020.png', recording: 'https://youtu.be/WdmcUl8klnc'}
+- {title: 'Technology as a field is changing because we are uprooting the stereotype of who a technologist is', name: 'Top Tech Trends Debate', organiser: 'The Churchill Club', where: 'Online (Aus)', date: '2020-09-01', image: top_tech_trends.png}
+- {title: 'Data Pannel', name: 'GradGirls', organiser: VicICTForWomen, where: Online (Aus), date: '2020-08-20', image: grad_girls.png}
+- {title: 'Understanding "place" through social data', name: 'Symposium: making unstructured data usable', organiser: 'Data, Systems and Society Research Network (DSSRN)', where: 'Melbourne', date: '2019-11-28'}
+- {title: 'Social data: invading privacy or creating better cities', name: 'CSVConf.v4' , organiser: 'CSVConf' , where: 'Portland', date: '2019-05-09', image: csvconf4.png, recording: 'https://youtu.be/g-9LQjQF1xU'}
+- {title: 'Multiple informal talks, mostly on pandas and geospatial data', name: 'Monthly meetup' , organiser: 'PyLadies Melbourne' , where: 'Melbourne', date: '2016-2019', image: 'pyladies.png'}
+- {title: 'My rebellion', name: 'Rebel' , organiser: 'Code Like a Girl' , where: 'Melbourne', date: '2018-04-19', image: 'code_like_a_girl.png'}
+- {title: 'How I #PressForProgress', name: 'IWD meetup' , organiser: 'Junior Developer Meetup' , where: 'Melbourne', date: '2018-03-08', image: 'junior_developer_meetup.png'}
+# - {title: '', name: '' , organiser: '' , where: '', date: '', image: 'tiles_2.png', recording: ''}
+
+
+
 
 #-------------------------------
 # Education Section
