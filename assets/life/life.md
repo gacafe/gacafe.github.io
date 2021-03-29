@@ -2,6 +2,8 @@ Gala's life
 ===============
 - 11/2020-~		  & work      & major & Data and Analytics Strategic Consultant (Cambridge, United Kingdom)
 
+- 01/2021-~		  & volunteer & minor & Steering Committee, Women+ in Geospatial (Remote)
+
 - 01/2019-~       & volunteer & major & Board Member, Women in STEMM Australia (Melbourne, Australia)
 
 - 12/2019-12/2020 & volunteer & major & Board Member, Victorian Student Representative Council (Melbourne, Australia)
