@@ -1,6 +1,6 @@
 Gala's life
 ===============
-- 11/2020-~		  & work      & major & Data and Analytics Strategic Consultant (Cambridge, United Kingdom)
+- 11/2020-~		  & work      & major & Data Scientist, Diagonal (Cambridge, United Kingdom)
 
 - 01/2021-~		  & volunteer & minor & Steering Committee, Women+ in Geospatial (Remote)
 
