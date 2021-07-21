@@ -8,9 +8,11 @@ signature: assets/images/about/signature.png
 
 Hola and thank you for taking the time to read about me. 
 
-I am currently attending events, doing a lot of reading, and working part-time on urban analytics algorithms. I am in search of interesting projects, particularly in the intersection of data + analytics, community building, and technical products that enhance equity in our society. Please reach out - I am always after human connections!
+I work as a Data Scientist at [Diagonal](https://diagonal.works/). Diagonal is a new company trying to make it easier for subject matter experts to work with open data about cities, so that we can work with them to analyse, understand and help positively shape the urban environment. You can read more about our hopes and dreams [here](https://diagonal.works/post/how-it-started/). Recognising that technology is only a small part in the cog that is designing, evaluating and understanding cities, Diagonal aims to improve the quality of life in cities. I am excited and proud to be part of the [team](https://diagonal.works/about-us/) establishing and working at Diagonal! If you are keen to have a chat, think we can help you, or are just generally interested to hear more about us [please get in touch](mailto:hello@diagonal.works).
 
-Most recently I was the Head of Analytics at a start-up in the civic and property tech space in Melbourne, Australia. There, I led the data and analytics strategy and implementation – from ideation through to production. I was in charge of the research and development of the core analytics IP as well as the delivery of bespoke analytics within special projects. 
+I am always in search of interesting projects, particularly in the intersection of data + analytics, community building, and technical products that enhance equity in our society. If this is your jam, send me a message - I am always up for a digital coffee!
+
+Before my current role, I was the Head of Analytics at a start-up in the civic and property tech space in Melbourne, Australia. There, I led the data and analytics strategy and implementation – from ideation through to production. I was in charge of the research and development of the core analytics IP as well as the delivery of bespoke analytics within special projects. 
 
 In a previous career, I was a secondary school mathematics and science teacher, as such, I rely on many of the strategies I developed as a teacher to **build analytics collaboratively and with purpose**.
 
