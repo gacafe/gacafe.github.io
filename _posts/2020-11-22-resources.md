@@ -34,11 +34,11 @@ I found this list I made for someone, of resources I thought were important. I a
 - Men to receive almost two-thirds of Coalition tax cuts after 10 years <https://www.theguardian.com/australia-news/2018/jun/06/men-to-receive-almost-two-thirds-of-coalition-tax-cuts-after-10-years>
 
 ##### Feminism + Exposure to women:
-- Let's ruin some dinner parties (https://www.youtube.com/watch?v=gzeU3eP2xuo>
-- LadyScience (https://www.ladyscience.com/>
-- Speakers and people to follow (https://www.diversifytech.co/>
-- #MeToo isn’t enough. Now women need to get ugly-Barbara Kingsolver (https://www.theguardian.com/commentisfree/2018/jan/16/metoo-women-daughters-harassment-powerful-men>
-- Her Words (https://www.herwords.com.au/>
+- Let's ruin some dinner parties <https://www.youtube.com/watch?v=gzeU3eP2xuo>
+- LadyScience <https://www.ladyscience.com/>
+- Speakers and people to follow <https://www.diversifytech.co/>
+- #MeToo isn’t enough. Now women need to get ugly-Barbara Kingsolver <https://www.theguardian.com/commentisfree/2018/jan/16/metoo-women-daughters-harassment-powerful-men>
+- Her Words <https://www.herwords.com.au/>
 
 
 ##### Language (sexism, racism, etc):
