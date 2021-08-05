@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ..old and recovered.. reading log!
+title:  old and recovered reading list! somewhat updated:2021-06
 image:  water.png
 author: Gala Camacho Ferrari
 tags:   resources
@@ -11,10 +11,21 @@ summary: An odd but worthy reading list
 
 I found this list I made for someone, of resources I thought were important. I am always struggling to find a lot of these - so posting here for reference - reader, if you see this, I hope it is useful (and let me know if any of the links are broken :)!
 
+Last updated 2021-06
+
 ##### Gender equality books (..that I've read):
-- [in STEM] Inferior - Angela Saini <https://en.wikipedia.org/wiki/Inferior_<book>>
-- [in general] Delusions of Gender - Cordelia Fine <https://en.wikipedia.org/wiki/Delusions_of_Gender>
-- [in the home/work] The Wife Drought - Annabel Crabb <https://www.penguin.com.au/books/the-wife-drought-9780857984289>
+- [in medicine] Pain and Prejudice: A call to arms for women and their bodies - Gabrielle Jackson <https://uk.bookshop.org/books/pain-and-prejudice-a-call-to-arms-for-women-and-their-bodies/9780349424552>
+- [in STEM] Inferior: The True Power of Women and the Science That Shows it- Angela Saini <https://uk.bookshop.org/books/inferior-the-true-power-of-women-and-the-science-that-shows-it/9780008172039>
+- [in general] Delusions of Gender: The Real Science Behind Sex Differences - Cordelia Fine <https://uk.bookshop.org/books/delusions-of-gender-the-real-science-behind-sex-differences/9781848312203>
+- [in the home/work] The Wife Drought - Annabel Crabb <https://uk.bookshop.org/books/the-wife-drought/9780857984289>
+- [in data] Invisible Women: Exposing Data Bias in a World Designed for Men - Caroline Criado Perez <https://uk.bookshop.org/books/invisible-women-exposing-data-bias-in-a-world-designed-for-men/9781784706289> 
+
+##### Other books I have enjoyed and/or learnt from:
+- Bad Feminist - Roxane Gay <https://uk.bookshop.org/books/bad-feminist/9781472119735>. Thought provoking and perspectives that were new to me.
+- Meaty - Samantha Irby <https://uk.bookshop.org/books/meaty/9780571349838> and Wow, No Thank You. - Samantha Irby <https://uk.bookshop.org/books/wow-no-thank-you-the-1-new-york-times-bestseller/9780571359264>. Honest and dark humour, also good discussion of issues in life.
+- Intimations: Six Essays - Zadie Smith <https://uk.bookshop.org/books/intimations-six-essays/9780241492383>. Intriguing essays and self reflection
+- Can We All Be Feminists?: Seventeen writers on intersectionality, identity and finding the right way forward for feminism - edited by June Eric-Udorie <https://uk.bookshop.org/books/can-we-all-be-feminists-seventeen-writers-on-intersectionality-identity-and-finding-the-right-way-forward-for-feminism/9780349009889>. Different perspectives and deeply rooted complexities of feminism.
+
 
 ##### Perpetuating bias (sexism, racism, classism):
 - Weapons of Math Destruction - Cathy O'Neil <https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction>
@@ -37,7 +48,7 @@ I found this list I made for someone, of resources I thought were important. I a
 - Let's ruin some dinner parties <https://www.youtube.com/watch?v=gzeU3eP2xuo>
 - LadyScience <https://www.ladyscience.com/>
 - Speakers and people to follow <https://www.diversifytech.co/>
-- #MeToo isn’t enough. Now women need to get ugly-Barbara Kingsolver <https://www.theguardian.com/commentisfree/2018/jan/16/metoo-women-daughters-harassment-powerful-men>
+- #MeToo isn’t enough. Now women need to get ugly  -Barbara Kingsolver <https://www.theguardian.com/commentisfree/2018/jan/16/metoo-women-daughters-harassment-powerful-men>
 - Her Words <https://www.herwords.com.au/>
 
 
@@ -49,3 +60,6 @@ I found this list I made for someone, of resources I thought were important. I a
 ##### Other resources:
 - White privilege + sexism <https://hashtagcauseascene.com/amanda-johnson/>
 - Being an ally <https://twitter.com/Emre_C_Deniz/status/1054169855975276545>
+- Are you ready to heal? (on the gender binary) <
+https://www.instagram.com/p/CR1_IbUrQeK/?utm_medium=copy_link>
+
