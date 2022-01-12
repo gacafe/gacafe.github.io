@@ -95,6 +95,7 @@ experience:
 # Speaking Section
 speaking-title: Past talks / panels / etc
 speaking:
+- {title: 'Creating space for everyone', name: 'Space and Geospatial Virtual Pavilion for COP26' , organiser: 'KTN' , where: 'Online (UK)', date: '2021-11-02', image: 'ktn_space.png', recording: 'https://www.youtube.com/watch?v=A14W_hLJ4Lk&list=PL-hp8OOckWOAYPIBCNdhjPCwAvYh-sO0A&index=3'}
 - {title: 'Women''s Leadership in Geospatial, panel moderator', name: 'IWD' , organiser: 'Women+ in Geospatial' , where: 'Online (UK)', date: '2021-03-08', image: 'womeningeo_small.png', recording: 'https://youtu.be/ikcaeMwxvPo?t=1872'}
 - {title: 'Melbourne tech scene exit interview, speaker', name: 'Byte into IT' , organiser: 'RRR' , where: 'Radio (Melbourne)', date: '2020-10-21', image: 'byte_into_it.png', recording: 'https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/4735-get-online-week-exit-interviews'}
 - {title: 'Panel on a sustainable future with location intelligence, speaker', name:  'The Power of Place', organiser: 'Knowledge Transfer Network', where: 'Online (UK)', date: '2020-09-08', image: 'the_power_of_place.png', recording: 'https://ktn-uk.org/events/thepowerofplace-webinar-series-a-sustainable-future-with-location-intelligence/'}
