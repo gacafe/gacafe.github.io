@@ -1,10 +1,12 @@
 Gala's life
 ===============
-- 12/2020-~		  & work      & major & Data Scientist, Diagonal (Cambridge, United Kingdom)
+- 12/2020-~		  & work      & major & Data Scientist - Founding Member, Diagonal (Remote - Edinburgh, United Kingdom)
 
-- 01/2021-~		  & volunteer & minor & Steering Committee, Women+ in Geospatial (Remote)
+- 04/2022-12/2022 & work      & minor & Expert Group - C4DR Digital Rights Governance Framework Project - (Remote)
 
-- 01/2019-~       & volunteer & major & Board Member, Women in STEMM Australia (Melbourne, Australia)
+- 01/2021-02/2023 & volunteer & minor & Steering Committee, Women+ in Geospatial (Remote)
+
+- 01/2019-10/2021 & volunteer & major & Board Member, Women in STEMM Australia (Melbourne, Australia)
 
 - 12/2019-12/2020 & volunteer & major & Board Member, Victorian Student Representative Council (Melbourne, Australia)
 
