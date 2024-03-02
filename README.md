@@ -16,6 +16,6 @@
 We need to be using the right version of ruby. So:
 
 1. `rvm use 2.7.1`
-2. `bundle exec -- jekyll serve`
+2. `bundle exec jekyll serve`
 
 

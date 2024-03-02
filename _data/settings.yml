@@ -7,7 +7,7 @@ logo: pipedream_b_small.png
 menu:
 - {name: Home, link: '/'}
 - {name: About, link: '/about.html'}
-- {name: Thoughts, link: '/thoughts.html'}
+# - {name: Thoughts, link: '/thoughts.html'}
 - {name: Contact, link: '/contact.html'}
 - {name: Experience, link: '/experience.html'}
 # - {name: Life, link: '/life.html'}
@@ -34,7 +34,7 @@ hero:
 social:
 - {icon: "ti-email", link: "mailto:gala.camacho+website@gmail.com"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/galacamacho/"}
-- {icon: "ti-twitter", link: "https://twitter.com/GalaCF"}
+# - {icon: "ti-twitter", link: "https://twitter.com/GalaCF"}
 
 
 
@@ -88,22 +88,26 @@ blurb-btn-name: Read more about me.
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Data Scientist, icon: 'icon-1.png', date: 'Dec 2021 - Present', organization: 'Diagonal Works'}
 
 # Speaking Section
 speaking-title: Past talks / panels / etc
 speaking:
-- {title: 'Creating space for everyone', name: 'Space and Geospatial Virtual Pavilion for COP26' , organiser: 'KTN' , where: 'Online (UK)', date: '2021-11-02', image: 'ktn_space.png', recording: 'https://www.youtube.com/watch?v=A14W_hLJ4Lk&list=PL-hp8OOckWOAYPIBCNdhjPCwAvYh-sO0A&index=3'}
+- {title: 'Open tools and alternative business models, speaker', name: 'People in Place Session' , organiser: 'SURF - Scotland''s regeneration forum' , where: 'Online (UK)', date: '2024-01-25', image: 'surf.png',}
+- {title: 'Fireside chat with Elizabeth Pirrie, speaker', name: 'AccelerateHER + Techscaler Meetup: Edinburgh and Lothians' , organiser: 'AccelerateHER + Techscaler' , where: 'Edinburgh (UK)', date: '2023-11-02', image: 'accelerateher_techscaler.png',}
+- {title: 'Using Tech for Positive Impact, speaker', name: 'Scotland’s Towns Partnership Learning Event: Digital – harnessing technology to empower people and places' , organiser: 'Scotland''s Towns Partnership' , where: 'Online (UK)', date: '2023-10-26', image: 'stp.png',}
+- {title: 'What we don''t talk about when we talk about data, speaker', name: 'Monthly meetup' , organiser: 'Edinburgh Tech Meetup' , where: 'Edinburgh (UK)', date: '2022-10-11', image: 'edi_tech_meetup.png'}
+- {title: 'None: a story of data that isn''t there, speaker', name: 'State of the Map - Firenze' , organiser: 'OpenStreetMap Foundation' , where: 'Firenze (Italy)', date: '2022-08-19', image: 'state_of_the_map.png', 'recording': 'https://www.youtube.com/watch?v=SWcojS_SrNc&list=PLQNy8KsDknCo4Hpk5_trylRC8FD2ge9ns&index=24'}
+- {title: 'Better use of open data in the built environment?, co-speaker', name: 'ODI Fridays' , organiser: 'Open Data Institute' , where: 'Online (UK)', date: '2022-03-04', image: 'odi.png', 'recording': 'https://www.youtube.com/watch?v=ypkhvGyh58k'}
+- {title: 'Creating space for everyone, speaker', name: 'Space and Geospatial Virtual Pavilion for COP26' , organiser: 'KTN' , where: 'Online (UK)', date: '2021-11-02', image: 'ktn_space.png', recording: 'https://www.youtube.com/watch?v=A14W_hLJ4Lk&list=PL-hp8OOckWOAYPIBCNdhjPCwAvYh-sO0A&index=3'}
 - {title: 'Women''s Leadership in Geospatial, panel moderator', name: 'IWD' , organiser: 'Women+ in Geospatial' , where: 'Online (UK)', date: '2021-03-08', image: 'womeningeo_small.png', recording: 'https://youtu.be/ikcaeMwxvPo?t=1872'}
 - {title: 'Melbourne tech scene exit interview, speaker', name: 'Byte into IT' , organiser: 'RRR' , where: 'Radio (Melbourne)', date: '2020-10-21', image: 'byte_into_it.png', recording: 'https://www.rrr.org.au/explore/podcasts/byte-into-it/episodes/4735-get-online-week-exit-interviews'}
 - {title: 'Panel on a sustainable future with location intelligence, speaker', name:  'The Power of Place', organiser: 'Knowledge Transfer Network', where: 'Online (UK)', date: '2020-09-08', image: 'the_power_of_place.png', recording: 'https://ktn-uk.org/events/thepowerofplace-webinar-series-a-sustainable-future-with-location-intelligence/'}
-- {title: 'Geospatial data is :exploading_head:, speaker', name: PyConline AU, organiser: PyCon Australia, where: Online (Oceania), date: '2020-09-04', image: 'pyconline_au_2020.png', recording: 'https://youtu.be/WdmcUl8klnc'}
+- {title: 'Geospatial data is :exploading_head:, speaker', name: 'PyConline AU', organiser: 'PyCon Australia', where: 'Online (Oceania)', date: '2020-09-04', image: 'pyconline_au_2020.png', recording: 'https://youtu.be/WdmcUl8klnc'}
 - {title: 'Technology as a field is changing because we are uprooting the stereotype of who a technologist is, speaker', name: 'Top Tech Trends Debate', organiser: 'The Churchill Club', where: 'Online (Aus)', date: '2020-09-01', image: top_tech_trends.png}
-- {title: 'Data Pannel, speaker', name: 'GradGirls', organiser: VicICTForWomen, where: Online (Aus), date: '2020-08-20', image: grad_girls.png}
+- {title: 'Data Pannel, speaker', name: 'GradGirls', organiser: 'VicICTForWomen', where: 'Online (Aus)', date: '2020-08-20', image: 'grad_girls.png'}
 - {title: 'Understanding "place" through social data, speaker', name: 'Symposium: making unstructured data usable', organiser: 'Data, Systems and Society Research Network (DSSRN)', where: 'Melbourne', date: '2019-11-28'}
-- {title: 'Social data: invading privacy or creating better cities, speaker', name: 'CSVConf.v4' , organiser: 'CSVConf' , where: 'Portland', date: '2019-05-09', image: csvconf4.png, recording: 'https://youtu.be/g-9LQjQF1xU'}
+- {title: 'Social data: invading privacy or creating better cities, speaker', name: 'CSVConf.v4' , organiser: 'CSVConf' , where: 'Portland', date: '2019-05-09', image: 'csvconf4.png', recording: 'https://youtu.be/g-9LQjQF1xU'}
 - {title: 'Multiple informal talks, mostly on pandas and geospatial data', name: 'Monthly meetup' , organiser: 'PyLadies Melbourne' , where: 'Melbourne', date: '2016-2019', image: 'pyladies.png'}
 - {title: 'My rebellion, speaker', name: 'Rebel' , organiser: 'Code Like a Girl' , where: 'Melbourne', date: '2018-04-19', image: 'code_like_a_girl.png'}
 - {title: 'How I #PressForProgress, speaker', name: 'IWD meetup' , organiser: 'Junior Developer Meetup' , where: 'Melbourne', date: '2018-03-08', image: 'junior_developer_meetup.png'}

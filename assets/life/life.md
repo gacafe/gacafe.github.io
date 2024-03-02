@@ -2,6 +2,8 @@ Gala's life
 ===============
 - 12/2020-~		  & work      & major & Data Scientist - Founding Member, Diagonal (Remote - Edinburgh, United Kingdom)
 
+- 11/2022-04/2023 & work      & major & Maternity Leave <3
+
 - 04/2022-12/2022 & work      & minor & Expert Group - C4DR Digital Rights Governance Framework Project - (Remote)
 
 - 01/2021-02/2023 & volunteer & minor & Steering Committee, Women+ in Geospatial (Remote)
