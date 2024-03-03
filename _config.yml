@@ -16,7 +16,7 @@ defaults:
 
 include:
   - _pages
-  - _posts
+  # - _posts
 
 sass:
   sass_dir: _sass
