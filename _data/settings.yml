@@ -93,6 +93,7 @@ experience:
 # Speaking Section
 speaking-title: Past talks / panels / etc
 speaking:
+- {title: 'Inagural event, organiser', name: 'Geomob Edinburgh', where: 'Edinburgh (UK)', date: '2024-03-26', image: 'geomob.png'}
 - {title: 'Open tools and alternative business models, speaker', name: 'People in Place Session' , organiser: 'SURF - Scotland''s regeneration forum' , where: 'Online (UK)', date: '2024-01-25', image: 'surf.png',}
 - {title: 'Fireside chat with Elizabeth Pirrie, speaker', name: 'AccelerateHER + Techscaler Meetup: Edinburgh and Lothians' , organiser: 'AccelerateHER + Techscaler' , where: 'Edinburgh (UK)', date: '2023-11-02', image: 'accelerateher_techscaler.png',}
 - {title: 'Using Tech for Positive Impact, speaker', name: 'Scotland’s Towns Partnership Learning Event: Digital – harnessing technology to empower people and places' , organiser: 'Scotland''s Towns Partnership' , where: 'Online (UK)', date: '2023-10-26', image: 'stp.png',}
