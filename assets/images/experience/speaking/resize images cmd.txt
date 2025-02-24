@@ -1,1 +1,2 @@
-sips -Z 160 *.png
+in imagemagick
+convert xx.png -resize 160x xx_resized.png

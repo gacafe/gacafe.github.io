@@ -13,19 +13,6 @@ menu:
 # - {name: Life, link: '/life.html'}
 
 
-
-#-------------------------------
-# Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-# google-analytics: UA-175571473-1
-
-
-#-------------------------------
 # Hero Section
 
 hero:
@@ -34,9 +21,6 @@ hero:
 social:
 - {icon: "ti-email", link: "mailto:gala.camacho+website@gmail.com"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/galacamacho/"}
-# - {icon: "ti-twitter", link: "https://twitter.com/GalaCF"}
-
-
 
 #-------------------------------
 # About (Section and Page)
@@ -47,7 +31,7 @@ blurb:
   Welcome to my website. 
 
 blurb-btn-link: '/about.html'
-blurb-btn-name: Read more about me.
+blurb-btn-name: More about me over here.
 
 
 # About Page
@@ -93,7 +77,12 @@ experience:
 # Speaking Section
 speaking-title: Past talks / panels / etc
 speaking:
-- {title: 'Routing algorithms, 20-minute neighbourhoods and hills in Scottish towns, speaker', name: 'TICTec - The Impacts of Civic Technology', organiser: 'MySociety', where: 'London (UK)', date: '2024-06-13', image: 'tiles_2.png', recording: 'https://www.youtube.com/watch?v=_VU8vCcLlps'}
+- {title: 'Large-area analytics for inclusive urbanism', name: 'GeoCom 2025' , organiser: 'AGI' , where: 'Edinburgh (UK)', date: '2025-02-27', image: 'agi.png', recording: ''}
+- {title: 'Keynote: The Entreprenurial Spirit', organiser: 'The Data Lab Academy' , where: 'Edinbugh (UK)', date: '2024-10-10', image: 'tdl.png', recording: ''}
+- {title: '20 Minute Neighbourhoods for Everyone', name: 'Geospatial Insights 2024: Innovations & Applications Across Sectors' , organiser: 'Location Data Scotland and AGI' , where: 'Edinburgh (UK)', date: '2024-08-27', image: 'lds_agi.png'}
+- {title: 'Founders Panel ', organiser: 'Geovation Scotland' , where: 'Edinburgh (UK)', date: '2024-08-21', image: 'geovation.png'} 
+- {title: 'Panel on Geospatial Data', name: 'Data & AI Meetup' , organiser: 'The Data Lab' , where: 'Edinburgh (UK)', date: '2024-08-07', image: 'tdl_data_ai.png'}
+- {title: 'Routing algorithms, 20-minute neighbourhoods and hills in Scottish towns, speaker', name: 'TICTec - The Impacts of Civic Technology', organiser: 'MySociety', where: 'London (UK)', date: '2024-06-13', image: 'TICTeC.png', recording: 'https://www.youtube.com/watch?v=_VU8vCcLlps'}
 - {title: 'Episode 236, speaker', name: 'Geomob Podcast', where: 'Remote (UK)', date: '2024-06-02', image: 'geomob.png', recording: 'https://thegeomob.com/podcast/episode-236'}
 - {title: 'Inagural event, organiser', name: 'Geomob Edinburgh', where: 'Edinburgh (UK)', date: '2024-03-26', image: 'geomob.png'}
 - {title: 'Open tools and alternative business models, speaker', name: 'People in Place Session' , organiser: 'SURF - Scotland''s regeneration forum' , where: 'Online (UK)', date: '2024-01-25', image: 'surf.png',}

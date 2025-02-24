@@ -1,8 +1,10 @@
 Gala's life
 ===============
-- 12/2020-~		  & work      & major & Data Scientist - Founding Member, Diagonal (Remote - Edinburgh, United Kingdom)
+- 12/2020-03/2025		  & work      & major & Founder and Data Scientist, Diagonal (Remote - Edinburgh, United Kingdom)
 
-- 03/2024-~       & education & minor & Pass The Mic Scotland (Remote - Scotland)
+- 03/2024-~		  & volunteer      & minor & Organiser, Geomob - (Edinburgh, United Kingdom)
+
+- 09/2024-03/2025		  & volunteer      & minor & Enterprise in Residence, Geovation Scotland - (Edinburgh, United Kingdom)
 
 - 11/2022-04/2023 & work      & major & Maternity Leave <3
 
